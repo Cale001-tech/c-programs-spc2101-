@@ -3,6 +3,6 @@
 void main()
 {
 char name[100];
-printf("enter your name:");
+printf("enter your reg no and date:");
 scanf("%s");
 }
