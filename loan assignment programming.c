@@ -1,3 +1,8 @@
+/*
+name:Calebweru
+reg no:26457
+description:program to determine whether you get a loan or not
+*/
 #include<stdio.h>
 int main() {
 	int age, income;
