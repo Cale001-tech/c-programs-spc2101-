@@ -1,3 +1,7 @@
+/*
+	Name:Caleb Weru
+Reg no.:CT101/G/26457
+	*/
 #include<stdio.h>
 #define PI 3.142
 
@@ -24,3 +28,4 @@ int main() {
   
 
 }
+
